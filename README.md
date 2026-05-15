@@ -1,72 +1,34 @@
-**Як запустити проєкт локально:**
+# Mebleria
 
-Щоб розгорнути проєкт на своєму комп'ютері, виконайте наступні кроки:
+**Mebleria** is a responsive furniture landing page and catalog website focused on clear product presentation, simple navigation, and a smooth order flow.
 
-1. **Клонуйте репозиторій:**
-   ```bash
-   git clone [https://github.com/Volodymyr-But2025/Progect_team-PlusUltra.git](https://github.com/Volodymyr-But2025/Progect_team-PlusUltra.git)
-   Перейдіть у папку проєкту:
-   ```
+## About the project
 
-Bash cd Progect_team-PlusUltra Встановіть залежності:
+This project showcases a modern furniture brand website with a hero section, product cards, about content, FAQ, reviews, and a feedback form. It was built to present furniture in a clean, user-friendly way and to make it easy for visitors to browse items and send a request.
 
-Bash npm install Запустіть режим розробки:
-
-Bash npm run dev Після цього проєкт буде доступний за адресою
-http://localhost:5173.
-
-**Збірка проєкту (Production):**
-
-Bash npm run build 
-
----
-
-**Основні розділи сайту:**
-
-Hero: Головний банер з ідеальним пропозиціями.
-
-Каталог: Зручна сітка товарів за категоріями.
-
-Про нас: Історія та цінності бренду «Меблерія».
-
-FAQ: Блок частих питань (реалізовано через акордеон).
-
-Відгуки: Слайдер із думками наших клієнтів.
-
-Контакти & Футер: Зворотний зв'язок та соцмережі.
-
----
-
-**Наша команда (PlusUltra):**
-
-[Володимир Бутенко] Volodymyr-But2025 — Team Lead. Координація команди, архітектура проєкту та логіки скролу.
-
-[Калиноська Катерина] LazySabi — Full Stack Developer. Scrum master та верстка секції FAQ, реалізація FAQ (Accordion).
-
-[Данило Купрієнко ]  Danten4ik — Full Stack Developer. Верстка Hero.
-
-[Гребельник Анастасія] anastasiiahrebelnyk — Full Stack Developer. Секція Order modal.
-
-[Стахів Юрій ] Ponckin8888003 — Full Stack Developer. Секція Header.
-
-[Микита Буренок] MykytaBurenok — Full Stack Developer. Секція Furniture details modal.
-
-[Ірина Дятел] IrynaDiatel — Full Stack Developer. Секція About Us.
-
-[Ганна Ільків] shovgen — Full Stack Developer. Секція Feedback.
-
-[Архіп Гашенко] hip777-art — Full Stack Developer. Секція Furniture list.
-
-[Ігор Орос] adam-holm — Full Stack Developer. Секція Footer.
+**Live Demo** [Live Demo](https://volodymyr-but2025.github.io/Progect_team-PlusUltra/)
 
 
----
 
-**Посилання Макет у Figma:**
+## Tech stack
 
-figma.com/design/xmuUuDiEAbT0mjmpgzPrc0/Меблерія?t=nE87zQfPpdigQhR6-0
+**Frontend:** HTML, CSS, JavaScript
 
-**Live Preview (GitHub Pages/Vercel):**
+**Tooling:** Vite, Git, GitHub Pages
 
-https://volodymyr-but2025.github.io/Progect_team-PlusUltra/
+**API:** Images and content integration via static assets
+
+## Features
+
+- Responsive one-page layout with modals.
+- Product catalog with prices and item details.
+- About section with brand message.
+- FAQ accordion with common customer questions.
+- Reviews section for social proof.
+- Order form for direct inquiries.
+- Smooth anchor navigation across sections.
+
+## My contribution
+
+I worked on the front-end implementation, structure, and UI presentation to make the project look clean and practical.
 
