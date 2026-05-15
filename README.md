@@ -6,7 +6,7 @@
 
 This project showcases a modern furniture brand website with a hero section, product cards, about content, FAQ, reviews, and a feedback form. It was built to present furniture in a clean, user-friendly way and to make it easy for visitors to browse items and send a request.
 
-**Live Demo** [Live Demo](https://volodymyr-but2025.github.io/Progect_team-PlusUltra/)
+[Live Demo](https://volodymyr-but2025.github.io/Progect_team-PlusUltra/)
 
 
 
